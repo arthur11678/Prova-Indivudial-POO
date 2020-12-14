@@ -1,0 +1,2 @@
+cada classe possuiria os metodos estaticos para inserir excluir buscar e listar.
+Receberiam um objeto e abririam o arquivo.
